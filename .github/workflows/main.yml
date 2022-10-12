@@ -38,7 +38,7 @@ jobs:
           key: ${{ runner.os }}-${{ hashFiles('**/previews') }}-${{ hashFiles('**/requirements.txt') }}
 
       - name: Generate index
-        run: staticdirindex . --sitename="SailfishOS-exynos7880 Directory Listing" --baseurl="https://sailfishos-exynos7880.github.io/repo"
+        run: staticdirindex . --sitename="exynos7880-linux Directory Listing" --baseurl="https://exynos7880-linux.github.io/repo"
 
       - name: GitHub Pages action
         uses: peaceiris/actions-gh-pages@v3.7.3
