@@ -1,3 +1,3 @@
 ## SailfishOS-exynos7880
 
-[Directory Listing](https://sailfishos-exynos7880.github.io/repo/)
+[Directory Listing](https://exynos7880-linux.github.io/repo/)
