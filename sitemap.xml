@@ -254,10 +254,6 @@
     <changefreq>never</changefreq>
   </url>
   <url>
-    <loc>https://exynos7880-linux.github.io/repo/4.4.0.72/a5y17lte/repomd.xml~</loc>
-    <changefreq>never</changefreq>
-  </url>
-  <url>
     <loc>https://exynos7880-linux.github.io/repo/4.4.0.72/a5y17lte/sailfish-fpd-community-1.1.1-1.aarch64.rpm</loc>
     <changefreq>never</changefreq>
   </url>
