@@ -1,1 +1,1 @@
-Sitemap: https://sailfishos-exynos7880.github.io/repo/sitemap.xml
+Sitemap: https://exynos7880-linux.github.io/repo/sitemap.xml
