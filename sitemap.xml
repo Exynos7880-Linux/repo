@@ -2,28 +2,8 @@
 
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
-    <loc>https://exynos7880-linux.github.io/repo/README.md</loc>
-    <changefreq>never</changefreq>
-  </url>
-  <url>
-    <loc>https://exynos7880-linux.github.io/repo/requirements.txt</loc>
-    <changefreq>never</changefreq>
-  </url>
-  <url>
-    <loc>https://exynos7880-linux.github.io/repo/.github/</loc>
-    <changefreq>monthly</changefreq>
-  </url>
-  <url>
     <loc>https://exynos7880-linux.github.io/repo/4.4.0.72/</loc>
     <changefreq>monthly</changefreq>
-  </url>
-  <url>
-    <loc>https://exynos7880-linux.github.io/repo/.github/workflows/</loc>
-    <changefreq>monthly</changefreq>
-  </url>
-  <url>
-    <loc>https://exynos7880-linux.github.io/repo/.github/workflows/main.yml</loc>
-    <changefreq>never</changefreq>
   </url>
   <url>
     <loc>https://exynos7880-linux.github.io/repo/4.4.0.72/a5y17lte/</loc>
