@@ -250,6 +250,10 @@
     <changefreq>never</changefreq>
   </url>
   <url>
+    <loc>https://exynos7880-linux.github.io/repo/4.4.0.72/a5y17lte/repomd.xml</loc>
+    <changefreq>never</changefreq>
+  </url>
+  <url>
     <loc>https://exynos7880-linux.github.io/repo/4.4.0.72/a5y17lte/sailfish-fpd-community-1.1.1-1.aarch64.rpm</loc>
     <changefreq>never</changefreq>
   </url>
@@ -295,10 +299,6 @@
   </url>
   <url>
     <loc>https://exynos7880-linux.github.io/repo/4.4.0.72/a5y17lte/repo/repodata/fc8ef447d32e52adf7956dac90e5894f7d318668141161f6e1c7ab6c68487e52-primary.xml.gz</loc>
-    <changefreq>never</changefreq>
-  </url>
-  <url>
-    <loc>https://exynos7880-linux.github.io/repo/4.4.0.72/a5y17lte/repo/repodata/repomd.xml</loc>
     <changefreq>never</changefreq>
   </url>
 </urlset>
