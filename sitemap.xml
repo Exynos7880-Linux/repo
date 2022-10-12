@@ -254,6 +254,10 @@
     <changefreq>never</changefreq>
   </url>
   <url>
+    <loc>https://exynos7880-linux.github.io/repo/4.4.0.72/a5y17lte/repomd.xml~</loc>
+    <changefreq>never</changefreq>
+  </url>
+  <url>
     <loc>https://exynos7880-linux.github.io/repo/4.4.0.72/a5y17lte/sailfish-fpd-community-1.1.1-1.aarch64.rpm</loc>
     <changefreq>never</changefreq>
   </url>
@@ -270,35 +274,31 @@
     <changefreq>never</changefreq>
   </url>
   <url>
-    <loc>https://exynos7880-linux.github.io/repo/4.4.0.72/a5y17lte/repo/</loc>
+    <loc>https://exynos7880-linux.github.io/repo/4.4.0.72/a5y17lte/repodata/</loc>
     <changefreq>monthly</changefreq>
   </url>
   <url>
-    <loc>https://exynos7880-linux.github.io/repo/4.4.0.72/a5y17lte/repo/repodata/</loc>
-    <changefreq>monthly</changefreq>
-  </url>
-  <url>
-    <loc>https://exynos7880-linux.github.io/repo/4.4.0.72/a5y17lte/repo/repodata/2ccb10df4e6e4932cf2077a2d8a7f8bc7c4ddf652dc5e7a7ed3871c16407380e-filelists.sqlite.bz2</loc>
+    <loc>https://exynos7880-linux.github.io/repo/4.4.0.72/a5y17lte/repodata/2ccb10df4e6e4932cf2077a2d8a7f8bc7c4ddf652dc5e7a7ed3871c16407380e-filelists.sqlite.bz2</loc>
     <changefreq>never</changefreq>
   </url>
   <url>
-    <loc>https://exynos7880-linux.github.io/repo/4.4.0.72/a5y17lte/repo/repodata/5b7836e8acc3337e91dffda366872b4fb97ffaef206a671a3785a919bdac8eda-other.xml.gz</loc>
+    <loc>https://exynos7880-linux.github.io/repo/4.4.0.72/a5y17lte/repodata/5b7836e8acc3337e91dffda366872b4fb97ffaef206a671a3785a919bdac8eda-other.xml.gz</loc>
     <changefreq>never</changefreq>
   </url>
   <url>
-    <loc>https://exynos7880-linux.github.io/repo/4.4.0.72/a5y17lte/repo/repodata/6314b79ac3af4d73bb1562b44894f5a546686cb3efc0d16d5d2865967620342f-primary.sqlite.bz2</loc>
+    <loc>https://exynos7880-linux.github.io/repo/4.4.0.72/a5y17lte/repodata/6314b79ac3af4d73bb1562b44894f5a546686cb3efc0d16d5d2865967620342f-primary.sqlite.bz2</loc>
     <changefreq>never</changefreq>
   </url>
   <url>
-    <loc>https://exynos7880-linux.github.io/repo/4.4.0.72/a5y17lte/repo/repodata/88553b268b8875b1ba5f75317654ea72263b1676887220f9e04b62d52d9545a1-other.sqlite.bz2</loc>
+    <loc>https://exynos7880-linux.github.io/repo/4.4.0.72/a5y17lte/repodata/88553b268b8875b1ba5f75317654ea72263b1676887220f9e04b62d52d9545a1-other.sqlite.bz2</loc>
     <changefreq>never</changefreq>
   </url>
   <url>
-    <loc>https://exynos7880-linux.github.io/repo/4.4.0.72/a5y17lte/repo/repodata/a4a4f9d9cf385e521417858f3410dfcafe0f7fbe50ede9641832c6b53fd78d67-filelists.xml.gz</loc>
+    <loc>https://exynos7880-linux.github.io/repo/4.4.0.72/a5y17lte/repodata/a4a4f9d9cf385e521417858f3410dfcafe0f7fbe50ede9641832c6b53fd78d67-filelists.xml.gz</loc>
     <changefreq>never</changefreq>
   </url>
   <url>
-    <loc>https://exynos7880-linux.github.io/repo/4.4.0.72/a5y17lte/repo/repodata/fc8ef447d32e52adf7956dac90e5894f7d318668141161f6e1c7ab6c68487e52-primary.xml.gz</loc>
+    <loc>https://exynos7880-linux.github.io/repo/4.4.0.72/a5y17lte/repodata/fc8ef447d32e52adf7956dac90e5894f7d318668141161f6e1c7ab6c68487e52-primary.xml.gz</loc>
     <changefreq>never</changefreq>
   </url>
 </urlset>
