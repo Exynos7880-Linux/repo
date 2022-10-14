@@ -317,5 +317,37 @@
     <loc>https://exynos7880-linux.github.io/repo/custom-repo/waydroid-settings-1.2.0%2Bgit6%2Bmain.20221014181812.ff5c168%2Bupstream.b28ede8-6.noarch.rpm</loc>
     <changefreq>never</changefreq>
   </url>
+  <url>
+    <loc>https://exynos7880-linux.github.io/repo/custom-repo/repodata/</loc>
+    <changefreq>monthly</changefreq>
+  </url>
+  <url>
+    <loc>https://exynos7880-linux.github.io/repo/custom-repo/repodata/20765e144d4b2394e459c47837810f3c92ba31578c960ddb2aadaf2050297a00-other.xml.gz</loc>
+    <changefreq>never</changefreq>
+  </url>
+  <url>
+    <loc>https://exynos7880-linux.github.io/repo/custom-repo/repodata/5cfc2ce450cc37ee23d3b35a078d8cde745e60c0c9480cebf3c8f74d36db56d4-primary.xml.gz</loc>
+    <changefreq>never</changefreq>
+  </url>
+  <url>
+    <loc>https://exynos7880-linux.github.io/repo/custom-repo/repodata/5d1463216b8cd4e0decc9a848a1b9d5d8b0fa3eec581cfd606002dbdfabfbad1-filelists.xml.gz</loc>
+    <changefreq>never</changefreq>
+  </url>
+  <url>
+    <loc>https://exynos7880-linux.github.io/repo/custom-repo/repodata/810c03b47ef611185239594d4fba58010b92f7c32cd00c0440300496e221761a-other.sqlite.bz2</loc>
+    <changefreq>never</changefreq>
+  </url>
+  <url>
+    <loc>https://exynos7880-linux.github.io/repo/custom-repo/repodata/a236a5ccb2be789b0a20c6f29edfd696950c197f87b887c7e3aa454f492ab0ee-primary.sqlite.bz2</loc>
+    <changefreq>never</changefreq>
+  </url>
+  <url>
+    <loc>https://exynos7880-linux.github.io/repo/custom-repo/repodata/b05755292df538dc064a0056ce5bae37816508e7be8adbf1de3c45e512fb2d3b-filelists.sqlite.bz2</loc>
+    <changefreq>never</changefreq>
+  </url>
+  <url>
+    <loc>https://exynos7880-linux.github.io/repo/custom-repo/repodata/repomd.xml</loc>
+    <changefreq>never</changefreq>
+  </url>
 </urlset>
 
