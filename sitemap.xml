@@ -30,35 +30,39 @@
     <changefreq>never</changefreq>
   </url>
   <url>
-    <loc>https://exynos7880-linux.github.io/repo/4.4.0.72/a5y17lte/droid-config-a5y17lte-bluez5-1-202210210747.aarch64.rpm</loc>
+    <loc>https://exynos7880-linux.github.io/repo/4.4.0.72/a5y17lte/droid-config-a5y17lte-1-202210210852.aarch64.rpm</loc>
     <changefreq>never</changefreq>
   </url>
   <url>
-    <loc>https://exynos7880-linux.github.io/repo/4.4.0.72/a5y17lte/droid-config-a5y17lte-flashing-1-202210210747.aarch64.rpm</loc>
+    <loc>https://exynos7880-linux.github.io/repo/4.4.0.72/a5y17lte/droid-config-a5y17lte-bluez5-1-202210210852.aarch64.rpm</loc>
     <changefreq>never</changefreq>
   </url>
   <url>
-    <loc>https://exynos7880-linux.github.io/repo/4.4.0.72/a5y17lte/droid-config-a5y17lte-kickstart-configuration-1-202210210747.aarch64.rpm</loc>
+    <loc>https://exynos7880-linux.github.io/repo/4.4.0.72/a5y17lte/droid-config-a5y17lte-flashing-1-202210210852.aarch64.rpm</loc>
     <changefreq>never</changefreq>
   </url>
   <url>
-    <loc>https://exynos7880-linux.github.io/repo/4.4.0.72/a5y17lte/droid-config-a5y17lte-policy-settings-1-202210210747.aarch64.rpm</loc>
+    <loc>https://exynos7880-linux.github.io/repo/4.4.0.72/a5y17lte/droid-config-a5y17lte-kickstart-configuration-1-202210210852.aarch64.rpm</loc>
     <changefreq>never</changefreq>
   </url>
   <url>
-    <loc>https://exynos7880-linux.github.io/repo/4.4.0.72/a5y17lte/droid-config-a5y17lte-preinit-plugin-1-202210210747.aarch64.rpm</loc>
+    <loc>https://exynos7880-linux.github.io/repo/4.4.0.72/a5y17lte/droid-config-a5y17lte-policy-settings-1-202210210852.aarch64.rpm</loc>
     <changefreq>never</changefreq>
   </url>
   <url>
-    <loc>https://exynos7880-linux.github.io/repo/4.4.0.72/a5y17lte/droid-config-a5y17lte-pulseaudio-settings-1-202210210747.aarch64.rpm</loc>
+    <loc>https://exynos7880-linux.github.io/repo/4.4.0.72/a5y17lte/droid-config-a5y17lte-preinit-plugin-1-202210210852.aarch64.rpm</loc>
     <changefreq>never</changefreq>
   </url>
   <url>
-    <loc>https://exynos7880-linux.github.io/repo/4.4.0.72/a5y17lte/droid-config-a5y17lte-sailfish-1-202210210747.noarch.rpm</loc>
+    <loc>https://exynos7880-linux.github.io/repo/4.4.0.72/a5y17lte/droid-config-a5y17lte-pulseaudio-settings-1-202210210852.aarch64.rpm</loc>
     <changefreq>never</changefreq>
   </url>
   <url>
-    <loc>https://exynos7880-linux.github.io/repo/4.4.0.72/a5y17lte/droid-config-a5y17lte-ssu-kickstarts-1-202210210747.aarch64.rpm</loc>
+    <loc>https://exynos7880-linux.github.io/repo/4.4.0.72/a5y17lte/droid-config-a5y17lte-sailfish-1-202210210852.noarch.rpm</loc>
+    <changefreq>never</changefreq>
+  </url>
+  <url>
+    <loc>https://exynos7880-linux.github.io/repo/4.4.0.72/a5y17lte/droid-config-a5y17lte-ssu-kickstarts-1-202210210852.aarch64.rpm</loc>
     <changefreq>never</changefreq>
   </url>
   <url>
@@ -66,67 +70,51 @@
     <changefreq>never</changefreq>
   </url>
   <url>
-    <loc>https://exynos7880-linux.github.io/repo/4.4.0.72/a5y17lte/droid-hal-a5y17lte-0.0.6-202210210039.aarch64.rpm</loc>
+    <loc>https://exynos7880-linux.github.io/repo/4.4.0.72/a5y17lte/droid-hal-a5y17lte-0.0.6-202210210848.aarch64.rpm</loc>
     <changefreq>never</changefreq>
   </url>
   <url>
-    <loc>https://exynos7880-linux.github.io/repo/4.4.0.72/a5y17lte/droid-hal-a5y17lte-detritus-0.0.6-202210210039.aarch64.rpm</loc>
+    <loc>https://exynos7880-linux.github.io/repo/4.4.0.72/a5y17lte/droid-hal-a5y17lte-detritus-0.0.6-202210210848.aarch64.rpm</loc>
     <changefreq>never</changefreq>
   </url>
   <url>
-    <loc>https://exynos7880-linux.github.io/repo/4.4.0.72/a5y17lte/droid-hal-a5y17lte-devel-0.0.6-202210210039.aarch64.rpm</loc>
+    <loc>https://exynos7880-linux.github.io/repo/4.4.0.72/a5y17lte/droid-hal-a5y17lte-devel-0.0.6-202210210848.aarch64.rpm</loc>
     <changefreq>never</changefreq>
   </url>
   <url>
-    <loc>https://exynos7880-linux.github.io/repo/4.4.0.72/a5y17lte/droid-hal-a5y17lte-img-boot-0.0.6-202210141735.aarch64.rpm</loc>
+    <loc>https://exynos7880-linux.github.io/repo/4.4.0.72/a5y17lte/droid-hal-a5y17lte-img-boot-0.0.6-202210210848.aarch64.rpm</loc>
     <changefreq>never</changefreq>
   </url>
   <url>
-    <loc>https://exynos7880-linux.github.io/repo/4.4.0.72/a5y17lte/droid-hal-a5y17lte-img-boot-0.0.6-202210161337.aarch64.rpm</loc>
+    <loc>https://exynos7880-linux.github.io/repo/4.4.0.72/a5y17lte/droid-hal-a5y17lte-img-recovery-0.0.6-202210210848.aarch64.rpm</loc>
     <changefreq>never</changefreq>
   </url>
   <url>
-    <loc>https://exynos7880-linux.github.io/repo/4.4.0.72/a5y17lte/droid-hal-a5y17lte-img-boot-0.0.6-202210210039.aarch64.rpm</loc>
+    <loc>https://exynos7880-linux.github.io/repo/4.4.0.72/a5y17lte/droid-hal-a5y17lte-kernel-0.0.6-202210210848.aarch64.rpm</loc>
     <changefreq>never</changefreq>
   </url>
   <url>
-    <loc>https://exynos7880-linux.github.io/repo/4.4.0.72/a5y17lte/droid-hal-a5y17lte-img-recovery-0.0.6-202210141735.aarch64.rpm</loc>
+    <loc>https://exynos7880-linux.github.io/repo/4.4.0.72/a5y17lte/droid-hal-a5y17lte-kernel-dtbo-0.0.6-202210210848.aarch64.rpm</loc>
     <changefreq>never</changefreq>
   </url>
   <url>
-    <loc>https://exynos7880-linux.github.io/repo/4.4.0.72/a5y17lte/droid-hal-a5y17lte-img-recovery-0.0.6-202210161337.aarch64.rpm</loc>
+    <loc>https://exynos7880-linux.github.io/repo/4.4.0.72/a5y17lte/droid-hal-a5y17lte-kernel-modules-0.0.6-202210210848.aarch64.rpm</loc>
     <changefreq>never</changefreq>
   </url>
   <url>
-    <loc>https://exynos7880-linux.github.io/repo/4.4.0.72/a5y17lte/droid-hal-a5y17lte-img-recovery-0.0.6-202210210039.aarch64.rpm</loc>
+    <loc>https://exynos7880-linux.github.io/repo/4.4.0.72/a5y17lte/droid-hal-a5y17lte-tools-0.0.6-202210210848.aarch64.rpm</loc>
     <changefreq>never</changefreq>
   </url>
   <url>
-    <loc>https://exynos7880-linux.github.io/repo/4.4.0.72/a5y17lte/droid-hal-a5y17lte-kernel-0.0.6-202210210039.aarch64.rpm</loc>
+    <loc>https://exynos7880-linux.github.io/repo/4.4.0.72/a5y17lte/droid-hal-a5y17lte-users-0.0.6-202210210848.aarch64.rpm</loc>
     <changefreq>never</changefreq>
   </url>
   <url>
-    <loc>https://exynos7880-linux.github.io/repo/4.4.0.72/a5y17lte/droid-hal-a5y17lte-kernel-dtbo-0.0.6-202210210039.aarch64.rpm</loc>
+    <loc>https://exynos7880-linux.github.io/repo/4.4.0.72/a5y17lte/droid-hal-version-a5y17lte-0.0.1-202210210842.aarch64.rpm</loc>
     <changefreq>never</changefreq>
   </url>
   <url>
-    <loc>https://exynos7880-linux.github.io/repo/4.4.0.72/a5y17lte/droid-hal-a5y17lte-kernel-modules-0.0.6-202210210039.aarch64.rpm</loc>
-    <changefreq>never</changefreq>
-  </url>
-  <url>
-    <loc>https://exynos7880-linux.github.io/repo/4.4.0.72/a5y17lte/droid-hal-a5y17lte-tools-0.0.6-202210210039.aarch64.rpm</loc>
-    <changefreq>never</changefreq>
-  </url>
-  <url>
-    <loc>https://exynos7880-linux.github.io/repo/4.4.0.72/a5y17lte/droid-hal-a5y17lte-users-0.0.6-202210210039.aarch64.rpm</loc>
-    <changefreq>never</changefreq>
-  </url>
-  <url>
-    <loc>https://exynos7880-linux.github.io/repo/4.4.0.72/a5y17lte/droid-hal-version-a5y17lte-0.0.1-202210210748.aarch64.rpm</loc>
-    <changefreq>never</changefreq>
-  </url>
-  <url>
-    <loc>https://exynos7880-linux.github.io/repo/4.4.0.72/a5y17lte/droid-hal-version-a5y17lte-doc-0.0.1-202210210748.aarch64.rpm</loc>
+    <loc>https://exynos7880-linux.github.io/repo/4.4.0.72/a5y17lte/droid-hal-version-a5y17lte-doc-0.0.1-202210210842.aarch64.rpm</loc>
     <changefreq>never</changefreq>
   </url>
   <url>
@@ -250,15 +238,15 @@
     <changefreq>never</changefreq>
   </url>
   <url>
-    <loc>https://exynos7880-linux.github.io/repo/4.4.0.72/a5y17lte/patterns-sailfish-device-adaptation-a5y17lte-1-202210210747.aarch64.rpm</loc>
+    <loc>https://exynos7880-linux.github.io/repo/4.4.0.72/a5y17lte/patterns-sailfish-device-adaptation-a5y17lte-1-202210210852.aarch64.rpm</loc>
     <changefreq>never</changefreq>
   </url>
   <url>
-    <loc>https://exynos7880-linux.github.io/repo/4.4.0.72/a5y17lte/patterns-sailfish-device-configuration-a5y17lte-1-202210210747.aarch64.rpm</loc>
+    <loc>https://exynos7880-linux.github.io/repo/4.4.0.72/a5y17lte/patterns-sailfish-device-configuration-a5y17lte-1-202210210852.aarch64.rpm</loc>
     <changefreq>never</changefreq>
   </url>
   <url>
-    <loc>https://exynos7880-linux.github.io/repo/4.4.0.72/a5y17lte/patterns-sailfish-device-configuration-common-a5y17lte-1-202210210747.aarch64.rpm</loc>
+    <loc>https://exynos7880-linux.github.io/repo/4.4.0.72/a5y17lte/patterns-sailfish-device-configuration-common-a5y17lte-1-202210210852.aarch64.rpm</loc>
     <changefreq>never</changefreq>
   </url>
   <url>
@@ -302,27 +290,27 @@
     <changefreq>monthly</changefreq>
   </url>
   <url>
-    <loc>https://exynos7880-linux.github.io/repo/4.4.0.72/a5y17lte/repodata/42e58ed987599f758dd69506d9d97ce76335fc7676580b3dc153012c1a962bd4-primary.sqlite.bz2</loc>
+    <loc>https://exynos7880-linux.github.io/repo/4.4.0.72/a5y17lte/repodata/12bab1fc239477ffdd6b1e192198b478ed7115b7476efe8f7def212c8164d157-primary.sqlite.bz2</loc>
     <changefreq>never</changefreq>
   </url>
   <url>
-    <loc>https://exynos7880-linux.github.io/repo/4.4.0.72/a5y17lte/repodata/7b22be38892dde567a1e72180e9d28e0173b22d8fc31c4df6ef5922528eabadc-other.xml.gz</loc>
+    <loc>https://exynos7880-linux.github.io/repo/4.4.0.72/a5y17lte/repodata/2eafdfd2fa2232d6c231836a2beabd1ac1ed8d47ef953475f2c5a9b3c4de8d55-other.sqlite.bz2</loc>
     <changefreq>never</changefreq>
   </url>
   <url>
-    <loc>https://exynos7880-linux.github.io/repo/4.4.0.72/a5y17lte/repodata/7b9a27aacdd631c464654d4c1e8f0a4ca1bd6c41874e6d2275a40726acc13557-filelists.xml.gz</loc>
+    <loc>https://exynos7880-linux.github.io/repo/4.4.0.72/a5y17lte/repodata/5918529218ce996052673f9733e8962ab87786646a364db5c09757b6b6d3ee05-primary.xml.gz</loc>
     <changefreq>never</changefreq>
   </url>
   <url>
-    <loc>https://exynos7880-linux.github.io/repo/4.4.0.72/a5y17lte/repodata/8aa7310dbaddf0a90279277991f5c0458c281dc92d72a630c721212c5e7ee514-primary.xml.gz</loc>
+    <loc>https://exynos7880-linux.github.io/repo/4.4.0.72/a5y17lte/repodata/85b7a7e8b57e51d008b32e6110f80e3e6ce785ee5e62c2f42d4ec11afbefc48a-filelists.sqlite.bz2</loc>
     <changefreq>never</changefreq>
   </url>
   <url>
-    <loc>https://exynos7880-linux.github.io/repo/4.4.0.72/a5y17lte/repodata/ead41906b3b8a45a81384f5f703d0c84fda7e4e8c0451cce52f4e8a0ca1f5e6e-other.sqlite.bz2</loc>
+    <loc>https://exynos7880-linux.github.io/repo/4.4.0.72/a5y17lte/repodata/c94000615def82a5170c6d6c12cdfe3812334c97031bc8b528a3f16071c4c819-other.xml.gz</loc>
     <changefreq>never</changefreq>
   </url>
   <url>
-    <loc>https://exynos7880-linux.github.io/repo/4.4.0.72/a5y17lte/repodata/ef16e0f048141c8ed71460000a5ffb19bc1043573d376144374138793ab6d61c-filelists.sqlite.bz2</loc>
+    <loc>https://exynos7880-linux.github.io/repo/4.4.0.72/a5y17lte/repodata/d278d5e9dfe6b1cdd6fdba021e83d6ed0998c59a3031b71d94cf3204fe6e9d63-filelists.xml.gz</loc>
     <changefreq>never</changefreq>
   </url>
   <url>
