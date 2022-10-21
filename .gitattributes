@@ -1,1 +1,1 @@
-4.4.0.72/a5y17lte/droid-system-a5y17lte-1-1.aarch64.rpm filter=lfs diff=lfs merge=lfs -text
+droid-system* filter=lfs diff=lfs merge=lfs -text
