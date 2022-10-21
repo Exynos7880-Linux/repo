@@ -334,7 +334,7 @@
     <changefreq>never</changefreq>
   </url>
   <url>
-    <loc>https://exynos7880-linux.github.io/repo/custom-repo/python3-gbinder-1.0.0%2Bgit2-1.aarch64.rpm</loc>
+    <loc>https://exynos7880-linux.github.io/repo/custom-repo/python3-gbinder-1.0.0%2Bgit3-1.1.1.jolla.aarch64.rpm</loc>
     <changefreq>never</changefreq>
   </url>
   <url>
@@ -366,27 +366,27 @@
     <changefreq>monthly</changefreq>
   </url>
   <url>
-    <loc>https://exynos7880-linux.github.io/repo/custom-repo/repodata/158eb96847c6b04aecb3042b4e5f7812e6970180ae6cec051d774250c5dc4bf5-filelists.sqlite.bz2</loc>
+    <loc>https://exynos7880-linux.github.io/repo/custom-repo/repodata/12c23fce9bd35cd7ca6feadb342aa2025ad85a72dc2ebbb8ae5c4d2d8adbbe44-other.sqlite.bz2</loc>
     <changefreq>never</changefreq>
   </url>
   <url>
-    <loc>https://exynos7880-linux.github.io/repo/custom-repo/repodata/9185191e56d85e796554419f6d1fd646fb898af02d9b9da37b88a3aa0b05f422-other.xml.gz</loc>
+    <loc>https://exynos7880-linux.github.io/repo/custom-repo/repodata/1f8dd5314d429b89dd45de2ce8a39cf4fc0816297fef6e9b4ec98b4478c61f49-filelists.sqlite.bz2</loc>
     <changefreq>never</changefreq>
   </url>
   <url>
-    <loc>https://exynos7880-linux.github.io/repo/custom-repo/repodata/e09f36fc1433e3ee4e88b0a79cda9ca20a05dee6e65fe826e3a96a21e334380e-primary.xml.gz</loc>
+    <loc>https://exynos7880-linux.github.io/repo/custom-repo/repodata/66f920aa73aa56f2a83f682b7170394587ee0857348bc733a7973ff0e1b024d7-filelists.xml.gz</loc>
     <changefreq>never</changefreq>
   </url>
   <url>
-    <loc>https://exynos7880-linux.github.io/repo/custom-repo/repodata/e1a30bbff3efeed0fe467903fee3bbd20c02b2bdd0c33cc17fc572e7249ae47e-other.sqlite.bz2</loc>
+    <loc>https://exynos7880-linux.github.io/repo/custom-repo/repodata/7515b626a756503227dab1be886c0115a8475f7a1b70e8e068bd5b134978549a-other.xml.gz</loc>
     <changefreq>never</changefreq>
   </url>
   <url>
-    <loc>https://exynos7880-linux.github.io/repo/custom-repo/repodata/e401a8cf47d41a768ded87e559609841586f4822fe25e3c53f818c8e7df5bb75-filelists.xml.gz</loc>
+    <loc>https://exynos7880-linux.github.io/repo/custom-repo/repodata/aff96af1c1f3f90db9cc1829401a228cfc56fdb30aae158646c6effe08cc817f-primary.sqlite.bz2</loc>
     <changefreq>never</changefreq>
   </url>
   <url>
-    <loc>https://exynos7880-linux.github.io/repo/custom-repo/repodata/ebd54c28f04d21881af5e875abdb45aae9d103ec53df40a2b81952b572e934f8-primary.sqlite.bz2</loc>
+    <loc>https://exynos7880-linux.github.io/repo/custom-repo/repodata/c7c4f830435f3ac73706e0aaa7b4673c00e6e06552d65b9a013930bdf584f697-primary.xml.gz</loc>
     <changefreq>never</changefreq>
   </url>
   <url>
